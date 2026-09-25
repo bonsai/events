@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bonsai/events//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:{{id}}
+DTSTART:{{date}}T{{start}}00
+DTEND:{{date}}T{{end}}00
+SUMMARY:{{title}}
+LOCATION:{{place}} {{address}}
+DESCRIPTION:price={{price}}; paid={{paid}}; status={{status}}; source={{source}}; note={{note}}
+END:VEVENT
+END:VCALENDAR
