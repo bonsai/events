@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <id>string</id>
+  <date>YYYY-MM-DD</date>
+  <start>HH:MM</start>
+  <end>HH:MM</end>
+  <title>string</title>
+  <place>string</place>
+  <address>string</address>
+  <price>string</price>
+  <paid>YES | NO | UNKNOWN</paid>
+  <status>candidate | confirmed | cancelled</status>
+  <source>string</source>
+  <note>string</note>
+</event>
