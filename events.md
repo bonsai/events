@@ -1,51 +1,5 @@
 # 2026-09-25 → 2026-10-31 Events
 
-## 2026-09-27
-
-### KABUKICHO FREE RAVE
-- id: 20260927-kabukicho-free-rave
-- date: 2026-09-27
-- start: 16:30
-- end: 19:30
-- title: KABUKICHO FREE RAVE
-- place: 歌舞伎町シネシティ広場
-- address: 東京都新宿区歌舞伎町1-20
-- price: 無料
-- paid: NO
-- status: 候補
-- source: Resident Advisor
-- note: FREE RAVE / 歌舞伎町
-
-### Verrückt Morning Rave
-- id: 20260927-verruckt-morning-rave
-- date: 2026-09-27
-- start: 06:00
-- end: 10:00
-- title: Verrückt Morning Rave
-- place: T2 Shinjuku
-- address: 東京都新宿区西新宿7-1-1
-- price: ¥1500
-- paid: YES
-- status: 候補
-- source: Resident Advisor
-- note: ⚠️ 有料 / 朝RAVE
-
-## 2026-10-01 → 2026-10-31
-
-### Yelloween / ZEROTOKYO
-- id: 20261001-yelloween-zerotokyo
-- date: 2026-10-01
-- start: 00:00
-- end: 23:59
-- title: Yelloween / ZEROTOKYO
-- place: ZEROTOKYO
-- address: 東京都新宿区歌舞伎町
-- price: 要確認
-- paid: 要確認
-- status: 候補
-- source: 公式
-- note: ⚠️ 料金要確認 / Halloween season
-
 ## 2026-10-17
 
 ### 渋谷駅東口商店会ハロウィン
