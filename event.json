@@ -1,0 +1,16 @@
+{
+  "event": {
+    "id": "string",
+    "date": "YYYY-MM-DD",
+    "start": "HH:MM",
+    "end": "HH:MM",
+    "title": "string",
+    "place": "string",
+    "address": "string",
+    "price": "string",
+    "paid": "YES | NO | UNKNOWN",
+    "status": "candidate | confirmed | cancelled",
+    "source": "string",
+    "note": "string"
+  }
+}
