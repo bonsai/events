@@ -1,0 +1,13 @@
+@prefix schema: <https://schema.org/> .
+
+<> a schema:Event ;
+  schema:identifier "string" ;
+  schema:startDate "YYYY-MM-DDTHH:MM" ;
+  schema:name "string" ;
+  schema:location "string" ;
+  schema:address "string" ;
+  schema:offers "string" ;
+  schema:isAccessibleForFree "YES | NO | UNKNOWN" ;
+  schema:status "candidate | confirmed | cancelled" ;
+  schema:url "string" ;
+  schema:description "string" .
